@@ -1,4 +1,4 @@
-Fiat180NT
+CAT M318
 =========
 
 Wheeled Excavator CAT M318 (first version)
